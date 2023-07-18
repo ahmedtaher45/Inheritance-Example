@@ -1,0 +1,15 @@
+C:\Users\ahmad\source\repos\Study_Proj\Study_Proj\bin\Debug\net7.0\Study_Proj.exe
+C:\Users\ahmad\source\repos\Study_Proj\Study_Proj\bin\Debug\net7.0\Study_Proj.deps.json
+C:\Users\ahmad\source\repos\Study_Proj\Study_Proj\bin\Debug\net7.0\Study_Proj.runtimeconfig.json
+C:\Users\ahmad\source\repos\Study_Proj\Study_Proj\bin\Debug\net7.0\Study_Proj.dll
+C:\Users\ahmad\source\repos\Study_Proj\Study_Proj\bin\Debug\net7.0\Study_Proj.pdb
+C:\Users\ahmad\source\repos\Study_Proj\Study_Proj\obj\Debug\net7.0\Study_Proj.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\Study_Proj\Study_Proj\obj\Debug\net7.0\Study_Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\Study_Proj\Study_Proj\obj\Debug\net7.0\Study_Proj.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\Study_Proj\Study_Proj\obj\Debug\net7.0\Study_Proj.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\Study_Proj\Study_Proj\obj\Debug\net7.0\Study_Proj.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\Study_Proj\Study_Proj\obj\Debug\net7.0\Study_Proj.dll
+C:\Users\ahmad\source\repos\Study_Proj\Study_Proj\obj\Debug\net7.0\refint\Study_Proj.dll
+C:\Users\ahmad\source\repos\Study_Proj\Study_Proj\obj\Debug\net7.0\Study_Proj.pdb
+C:\Users\ahmad\source\repos\Study_Proj\Study_Proj\obj\Debug\net7.0\Study_Proj.genruntimeconfig.cache
+C:\Users\ahmad\source\repos\Study_Proj\Study_Proj\obj\Debug\net7.0\ref\Study_Proj.dll
